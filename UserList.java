@@ -25,11 +25,11 @@ public class UserList {
 
         public int getId() {
             return id;
-        }
+        } geter id
 
         public void setId(int id) {
             this.id = id;
-        }
+        }// seter id
     }
 
 
